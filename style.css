@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;  
+}
+
+body {
+    background-image: url('assets/images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0px;
+}
+
+main {
+    display: flex;
+    flex: 1 2 100px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Noto Sans Linear B', sans-serif;
+    font-size: .8rem;
+}
+
+link {
+    color: #cc660e;
+    text-emphasis-color: #cc660e;
+    text-decoration: dashed;
+}
+
+.row {
+    padding: 1rem;
+    max-width: 1200px;
+    max-height: 600px;
+    overflow: hidden;
+    margin: .5rem;
+    background-color: rgba(255, 255, 255, 0.963);
+    clear: both;
+}
+
+.row2 {
+    padding: 1rem;
+    min-width: 1200px;
+    overflow: hidden;
+    margin: .5rem;
+    clear: both;
+}
+
+
+.row3 {
+    padding: 2rem;
+    max-width: 100%;
+    text-align: center;
+    overflow: hidden;
+    margin: 1rem;
+}
+
+.row4 {
+    padding: 1rem;
+    max-width: 580px;
+    overflow: hidden;
+    margin: .5rem;
+    background-color: rgba(255, 255, 255, 0.963);
+}
+
+.row5 {
+    padding: 1rem;
+    max-width: 600px;
+    overflow: hidden;
+    margin: .5rem;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+
+li {
+    line-height: 1.2rem;
+    padding: .5rem;
+    color: #050553;
+    background-color: linear-gradient(rgba(250, 145, 145, 0.7), rgba(237, 201, 165, 0.749));
+}
+
+h1 {
+    font-family: 'Bevan', serif;
+    font-weight: initial;
+    font-size: 3.5rem;
+    line-height: 4rem;
+    color: #83105D;
+    text-shadow: 1px 1px #D74F00;
+
+}
+
+h2 {
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: initial;
+    color: black;
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+}
+
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #878787;
+    font-size: 1.8rem;
+    text-shadow: 1px 1px black;
+    font-weight: 400;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.8rem;
+    color: #08086E;
+}
+
+h5 {
+    font-family: 'Noto Sans Linear B', sans-serif;
+    font-size: 1rem;
+    color: black;
+}
+
+footer {
+    background-image: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 27, 0.5));
+    color: #ff1493;
+    font-size: .8rem;
+    font-family: 'Noto Sans Linear B', sans-serif;
+    line-height: 1rem;
+    padding: 5%;
+}
