@@ -4,14 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Yijia Sun's Assignment 2 - Internet Explorer Exploded = Semantic Sentiments and Aspirations (In Class Assignment)</title>
+    <title> Yijia Sun's Assignment 2 - Future Vision</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
       </style>
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&display=swap');
-      </style>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Satisfy&display=swap');
+    </style>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Mooli&family=Satisfy&display=swap');
+    </style>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -20,28 +23,28 @@
         <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
     </header>
     <main>
-        <div class="row">
+        <div class="row1">
             <h1>
                 MY FUTURE VISION – A MORE INCLUSIVE, BIAS-FREE INTERNET
             </h1>
-            <h6>
+            <h5>
                 Yijia Sun / Step. 13th, 2023
-            </h6>
-        </div>
-        <div class="row">
-            <h4>
-                <em>The Internet was created for the purpose of being inclusive and demarginalized, not propagating bias. However, the Internet industry at present is largely dominated by high-tech countries, the white, as well as males.</em>
-            </h4>
+            </h5>
         </div>
         <div class="row2">
+            <h3>
+                <em>The Internet was created for the purpose of being inclusive and demarginalized, not propagating bias. However, the Internet industry at present is largely dominated by high-tech countries, the white, as well as males.</em>
+            </h3>
+        </div>
+        <div class="row1">
             <h2>
                 Internet Bias 
             </h2>
         </div>
         <div class="row4">
-            <h5>
+            <h4>
                 Race
-            </h5>
+            </h4>
             <br>
             <p>
                 Racial bias on the Internet is called "Techno-racism". It refers to the phenomenon that digital techonology used by government agencies or companies can unwittingly discriminate against people of color. For example, ficial recognition system may mistakenly or failed to recognize a person of black, inducing unexpected consequence. Other Techno-racism includes unemployment fraud systems and risk assessment tools, etc. (Karimi, 2021)
@@ -54,12 +57,12 @@
             </p>
         </div>
         <div class="row5">
-            <img src="assets/images/ficial recog.png" alt="Racial Bias in Ficial recognition", width="600px", height="400px">
+            <img src="assets/images/ficial recog.png" alt="Racial Bias in Ficial recognition" style="float: right; width: 500px; height: 350px;">
         </div>
         <div class="row4">
-            <h5>
+            <h4>
                 Gender
-            </h5>
+            </h4>
             <br>
             <p>
                 Research found that gender-neutral internet searches yield results that nonetheless produce male-dominated output -- for example, when searching gender-neutral word "person" or "human", it turns out that the proportion of male images yielded was higher in nations with greater gender inequality (roughly 90% men to 10% women in Hungary or Turkey!) while lower in nations with smaller gender inequality. (Vlasceanu & Amodio, 2022)
@@ -75,11 +78,11 @@
             <img src="assets/images/UN-Women.png" alt="Gender Bias on the Internet", width="800px", height="320px">
         </div>
         <div class="row3">
-            <h3>
-                As a result, I want the future to be more inclusive, bias-free, and accessible to people who are usually marginalized in the field of technology and the Internet. 
+            <h3 id="bottom">
+                <mark>As a result, I want the future to be more inclusive, bias-free, and accessible to people who are usually marginalized in the field of technology and the Internet.</mark>
             </h3>
         </div>
-        <div class="row">
+        <div class="row2">
             <p>
                 This is hard to generate from the present machine learning algorithm because the algorithm is what humans feed the machine. Nonetheless, the current issue largely results from the lack of black people or women in the tech industry and professions. Clearly, <strong>no black people and women, no inclusiveness of these people</strong>.
                 <br>
@@ -87,16 +90,16 @@
             </p>
         </div>
         <div class="row3">
-            <h5>
+            <h3 id="top">
                 Whereas high-tech is important, it is also rapid and changing. What’s permanent is <em>culture</em>, <em>civilization</em>, and <em>human values</em>. These are also what AI cannot synthesize, because they belong to the treasure of human intelligence.
-            </h5>
+            </h3>
         </div>
-        <div class="row">
+        <div class="row2">
             <p>
                 In the next sections, we will look at human civilization focusing mostly on the Asian and African cultures and female images in the new era respectively, to gain a more straightforward vision of the future in my mind.
             </p>
         </div>
-        <div class="row2">
+        <div class="row1">
             <h2>
                 Human Civilization – Not just White and High-Tech 
             </h2>
@@ -105,14 +108,13 @@
             <img src="assets/images/civiliization -asia 1.jpeg" alt="Asian Civilization">
         </div>
         <div class="row4">
-            <h5>
+            <h4>
                 Asian
-            </h5>
+            </h4>
             <br>
             <p>
                 The <strong>Kaicheng Stone Classics (開成石經)</strong> or Tang Stone Classics are a group of twelve early Chinese classic works carved on the orders of Emperor Wenzong of the Tang dynasty in 833–837 (Kaicheng era) as a reference document for scholars. The works recorded are:
             </p>
-            <br>
             <ul>
                 <li>
                     Book of Changes or I Ching (易經 Yìjīng)
@@ -159,9 +161,9 @@
             </p>
         </div>
         <div class="row4">
-            <h5>
+            <h4>
                 Africa
-            </h5>
+            </h4>
             <br>
             <p>
                 <a href="https://grandegyptianmuseum.org/" target="_blank"><strong>The Grand Egyptian Museum</strong></a>, often abbreviated as GEM, is a world-renowned cultural and historical institution located in Giza, Egypt. This magnificent museum is a celebration of Egypt's rich and ancient heritage, housing an unparalleled collection of artifacts and treasures that span thousands of years of Egyptian history.
@@ -188,19 +190,19 @@
             <img src="assets/images/civiliization -africa 1.jpeg" alt="African Civilization" style="width:600px; height:350px;">
         </div>
         <div class="row3">
-            <h5>
-                Liu, Cixin in his fiction <em>The three body problem</em> stated that the best way to store human heritage is to "carve the words on the stone". Can we also retain the human memories in the digital stone so that humans in the far future will still learn them?
-            </h5>
+            <h3 id="bottom">
+                Liu, Cixin in his fiction <em>The three body problem</em> stated that the best way to store human heritage is to "carve the words on the stone". <mark>Can we also retain the human memories in the digital stone so that humans in the far future will still learn them?</mark>
+            </h3>
         </div>
-        <div class="row2">
+        <div class="row1">
             <h2>
                 We Women Recognize Ourselves – Not the Internet
             </h2>
         </div>
         <div class="row4">
-            <h5>
+            <h4>
                 Sarah Storey
-            </h5>
+            </h4>
             <br>
             <p>
                 After being born without a functioning left hand, Sarah Storey faced a lot of bullying and prejudice growing up. She didn’t let that stop her, though. Instead, she went on to become Britain’s most decorated Paralympian, earning 27 medals, including 17 gold medals, in cycling and swimming. (CROTEAU, 2023)
@@ -222,9 +224,9 @@
             <img src="assets/images/Li.jpg" alt="Feifei Li">
         </div>
         <div class="row4">
-            <h5>
+            <h4>
                 Feifei Li
-            </h5>
+            </h4>
             <br>
             <p>
                 Born in Beijing, China on Oct. 30, 1976, Fei-Fei Li is a prominent figure in the field of artificial intelligence (AI) and computer vision. She is known for significant contributions to machine learning, particularly in areas like image recognition and visual understanding.
@@ -246,22 +248,20 @@
             </p>
         </div>
         <div class="row3">
-            <h5>
-                In China, there was graduate girl who dyed her hair pink commiting suicide under the pressure of online gossip; but there also exists woman fighting against unfair family role under the support of net people. Many women fight for rebuilding images; some failed, some succeeded. However, only making tries more, making the trace of women's battle more emphasized can we let people know women are far more than just sex, face, and supplemental income source.
-            </h5>
+            <h3 id="bottom">
+                In China, there was graduate girl who dyed her hair pink commiting suicide under the pressure of online gossip; but there also exists woman fighting against unfair family role under the support of net people. Many women fight for rebuilding images; some failed, some succeeded. <mark>However, only making tries more, making the trace of women's battle more emphasized can we let people know women are far more than just sex, face, and supplemental income source.</mark>
+            </h3>
         </div>
-        <div class="row">
-            <h4>
+        <div class="row2">
+            <h3>
                 <em>My future vision has not been ended yet. There is more information about Internet bias, human civilization and women's stories. I'll look up more on that. Hope the idea of being inclusive and bias-free in the field of Internet will offer us more possibilities in the future. Feel free to contact me if you are interested via <a href="mailto:ys359@duke.edu" target="_blank">ys359@duke.edu</a></em>.
-            </h4>
+            </h3>
         </div>
-        <img src="assets/images/past stories.png"
-            alt="Stories for a PAST we can DREAM as block type floating over gradient floating squares">
     </main>
+
     <footer>
         <br>
-        Student work of Web-Based Multimedia Communications <em>Semantic Sentiments and Aspirations</em> Fall 2023
-        in-class assignment
+        Student work of Web-Based Multimedia Communications Fall 2023 Assignment 2
         <br>
         <br>
     </footer>
